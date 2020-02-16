@@ -17,7 +17,7 @@ class NotesApp:
         self.text_box = tk.Text(self.gui, height=350, width=700)
 
         # make the submit button
-        self.button = tk.Button(self.gui, text="Submit", command=self.format_note_entry)
+        self.button = tk.Button(self.gui, text="Add Note", command=self.format_note_entry)
 
         # pack the button and the text box
         self.button.pack()
@@ -40,8 +40,13 @@ class NotesApp:
         note = timestamp + '\n' + text_content + '\n'
         # append to notes file
         self.append_to_file(note)
-        # close the tkinter window
-        self.gui.destroy()
+
+        # clear the text box
+        self.clear_text_box()
+
+    # method for clearing the text box
+    def clear_text_box(self):
+        self.text_box.delete("1.0", "end-1c")
 
     # get the timestamp for the note
     def get_date(self):
@@ -50,10 +55,8 @@ class NotesApp:
 
     # append the content to the file
     def append_to_file(self, note):
+        # open the note file
         notes_file = open("notes.txt", "a");
-
-        print("HER IS THE CONTENT IN THE APPEND TO FILE TING")
-        print(note)
 
         # append to the file
         notes_file.write("\n" + note)
