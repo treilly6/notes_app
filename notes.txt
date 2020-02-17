@@ -1,13 +1,3 @@
 
-02/16/2020 02:32 PM
-first note
--add the notes_app to github
-
-02/16/2020 02:33 PM
-try another note to see that this shit is dank
-
-02/16/2020 06:16 PM
-testing the remove method
-
-02/16/2020 06:17 PM
-sdfsddd
+02/16/2020 06:51 PM
+s

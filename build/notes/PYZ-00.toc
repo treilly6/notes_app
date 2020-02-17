@@ -84,18 +84,6 @@
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\stat.py',
    'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\tracemalloc.py',
-   'PYMODULE'),
-  ('pickle',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\pickle.py',
-   'PYMODULE'),
-  ('pprint',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\pprint.py',
-   'PYMODULE'),
   ('doctest',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\doctest.py',
@@ -120,6 +108,10 @@
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\unittest\\loader.py',
    'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\fnmatch.py',
+   'PYMODULE'),
   ('unittest.suite',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\unittest\\suite.py',
@@ -127,6 +119,10 @@
   ('unittest.case',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\pprint.py',
    'PYMODULE'),
   ('logging',
    'C:\\Users\\Thomas '
@@ -520,17 +516,21 @@
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\__future__.py',
    'PYMODULE'),
-  ('_compat_pickle',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\_compat_pickle.py',
-   'PYMODULE'),
-  ('fnmatch',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\fnmatch.py',
-   'PYMODULE'),
   ('stringprep',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\_compat_pickle.py',
    'PYMODULE'),
   ('datetime',
    'C:\\Users\\Thomas '

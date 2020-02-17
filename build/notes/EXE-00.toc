@@ -48,7 +48,7 @@
  [],
  False,
  False,
- 1581895124,
+ 1581900645,
  [('run.exe',
    'c:\\users\\thomas '
    'reilly\\desktop\\code_projects\\notes_app\\notes_env\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\run.exe',
