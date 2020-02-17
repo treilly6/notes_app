@@ -1,6 +1,6 @@
 ('C:\\Users\\Thomas '
  'Reilly\\Desktop\\code_projects\\notes_app\\build\\notes\\notes.exe',
- True,
+ False,
  False,
  True,
  None,
@@ -48,8 +48,8 @@
  [],
  False,
  False,
- 1581900645,
- [('run.exe',
+ 1581900945,
+ [('runw.exe',
    'c:\\users\\thomas '
-   'reilly\\desktop\\code_projects\\notes_app\\notes_env\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\run.exe',
+   'reilly\\desktop\\code_projects\\notes_app\\notes_env\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\runw.exe',
    'EXECUTABLE')])

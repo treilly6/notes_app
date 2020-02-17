@@ -84,6 +84,42 @@
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\stat.py',
    'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\pprint.py',
+   'PYMODULE'),
   ('doctest',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\doctest.py',
@@ -108,10 +144,6 @@
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\unittest\\loader.py',
    'PYMODULE'),
-  ('fnmatch',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\fnmatch.py',
-   'PYMODULE'),
   ('unittest.suite',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\unittest\\suite.py',
@@ -119,10 +151,6 @@
   ('unittest.case',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\unittest\\case.py',
-   'PYMODULE'),
-  ('pprint',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\pprint.py',
    'PYMODULE'),
   ('logging',
    'C:\\Users\\Thomas '
@@ -139,10 +167,6 @@
   ('pdb',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\pdb.py',
-   'PYMODULE'),
-  ('getopt',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\getopt.py',
    'PYMODULE'),
   ('pydoc',
    'C:\\Users\\Thomas '
@@ -176,17 +200,9 @@
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\gzip.py',
    'PYMODULE'),
-  ('_compression',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\_compression.py',
-   'PYMODULE'),
   ('lzma',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\lzma.py',
-   'PYMODULE'),
-  ('bz2',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\bz2.py',
    'PYMODULE'),
   ('email.message',
    'C:\\Users\\Thomas '
@@ -240,10 +256,6 @@
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\email\\_encoded_words.py',
    'PYMODULE'),
-  ('base64',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\base64.py',
-   'PYMODULE'),
   ('email.charset',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\email\\charset.py',
@@ -287,10 +299,6 @@
   ('email.feedparser',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\email\\feedparser.py',
-   'PYMODULE'),
-  ('quopri',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\quopri.py',
    'PYMODULE'),
   ('uu',
    'C:\\Users\\Thomas '
@@ -516,21 +524,13 @@
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\__future__.py',
    'PYMODULE'),
-  ('stringprep',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\stringprep.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\tracemalloc.py',
-   'PYMODULE'),
-  ('pickle',
-   'C:\\Users\\Thomas '
-   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\pickle.py',
-   'PYMODULE'),
   ('_compat_pickle',
    'C:\\Users\\Thomas '
    'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Thomas '
+   'Reilly\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\fnmatch.py',
    'PYMODULE'),
   ('datetime',
    'C:\\Users\\Thomas '
