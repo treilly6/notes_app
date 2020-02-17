@@ -1,0 +1,5 @@
+
+02/16/2020 08:01 PM
+(todo)
+- Calorie counter app fix logout function so auth error message does not show
+- Bugtracker app format chats to show those with newest messages at the top 
